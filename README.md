@@ -1,4 +1,2 @@
 # Store-Front
 
-
-Figma link: 
